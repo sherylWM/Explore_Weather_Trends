@@ -1,4 +1,4 @@
-# Explore_Weather_Trends
+# Project 1 - Explore Weather Trends
 This is the first Project of the Udacity Data Analytics Nanodegree. 
 
 Goal: To analyze local and global temperature data and compare the temperature trends to where I live with overall global temperature trends.
